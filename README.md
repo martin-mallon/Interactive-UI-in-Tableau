@@ -1,4 +1,4 @@
-<h2>Tableau - Building interactive navigational features for users</h2>
+<h1>Tableau - Building interactive navigational features for users</h1>
 
 <br>
 
@@ -8,3 +8,4 @@
 
 
 <h3>test header</h3>
+<p>lorem ipsum</p>
