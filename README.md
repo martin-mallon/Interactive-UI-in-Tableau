@@ -1,4 +1,4 @@
-<h1>Tableau - Building interactive navigational features for users</h1>
+<h2>Tableau - Building interactive navigational features for users</h2>
 
 <br>
 
