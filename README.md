@@ -1,4 +1,4 @@
-<h1><a href="https://public.tableau.com/app/profile/martinmallon.dataviz/viz/NavigationSystemforMarketingAnalytics/Home" target="_blank">Tableau - Building interactive navigational features for users</a></h1>
+<h1><a href="https://public.tableau.com/app/profile/martinmallon.dataviz/viz/NavigationSystemforMarketingAnalytics/Home" target="_blank" rel="noopener noreferrer">Tableau - Building interactive navigational features for users</a></h1>
 
 ![This is an image](/Tableau_Building_interactive_navigational_features_for_users/Assets/thumbnail.jpeg)
 
