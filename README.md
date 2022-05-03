@@ -1,4 +1,4 @@
-<h1>Tableau - Building interactive navigational features for users</h1>
+<h1>Interactive UI in Tableau</h1>
 
 <br>
 
