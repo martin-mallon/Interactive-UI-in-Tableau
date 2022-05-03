@@ -6,7 +6,7 @@
 
 <br>
 
-<h3><font color='grey'>Global filters<font></h3>
+<h3>Global filters<font></h3>
 <p>lorem ipsum</p>
 
 <br>
