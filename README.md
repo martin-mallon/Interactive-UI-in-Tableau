@@ -6,16 +6,16 @@
 
 <br>
 
-<h3>test header</h3>
+<h3><font color='grey'>Global filters<font></h3>
 <p>lorem ipsum</p>
 
 <br>
 
-<h3>test header</h3>
+<h3>Dashboard actions</h3>
 <p>lorem ipsum</p>
 
 <br>
 
-<h3>test header</h3>
+<h3>URL links</h3>
 <p>lorem ipsum</p>
 
