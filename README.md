@@ -2,7 +2,9 @@
 
 <br>
 
-![This is an image](/Tableau_Building_interactive_navigational_features_for_users/Assets/thumbnail.jpeg)
+<p align="center" width="100%">
+    <img width="100%" src="/Tableau_Interactive_UI/Assets/thumbnail.jpeg">
+</p>
 
 <br>
 
